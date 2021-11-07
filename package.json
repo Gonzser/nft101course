@@ -1,0 +1,26 @@
+{
+  "name": "nft101course",
+  "version": "1.0.0",
+  "description": "NFT 101 course with hardhat and instructors from EatTheBlaocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nft101course"
+  },
+  "keywords": [
+    "nft",
+    "klepatch",
+    "Josephs",
+    "hardhat",
+    "solidity",
+    "eattheblocks"
+  ],
+  "author": "gonzser",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.6.8"
+  }
+}

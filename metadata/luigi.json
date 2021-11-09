@@ -1,0 +1,50 @@
+{
+  "name": "Luigi",
+  "description": "Luigi's notable traits include his green cap, his smooth mustache, his cowardly personality, his Italian accent, his heavy use of power-ups, and a superior jumping ability to Mario. The above text is from the Super Mario Wiki and is available under a Creative Commons license. Attribution must be provided through a list of authors or a link back to the original article.",
+  "image": "https://ipfs.io/ipfs/QmYwWyw4S7yunAAAfod6xCQCuF858nm8Q1s8H87cpFUY5v",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Speed",
+      "value": 10,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Jump",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Intelligence",
+      "value": 5,
+      "max_value": 10
+    },
+    {
+      "display_type": "boot_number",
+      "trait_type": "Jump",
+      "value": 1
+    },
+    {
+      "display_type": "boot_percentage",
+      "trait_type": "Speed",
+      "value": 20
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Humble",
+      "value": "True"
+    },
+    {
+      "trait_type": "Kind",
+      "value": "True"
+    }
+  ]
+}
